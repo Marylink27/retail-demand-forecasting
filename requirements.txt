@@ -1,0 +1,12 @@
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+lightgbm==4.7.0
+joblib==1.6.0
+matplotlib==3.11.2
+
+# для ноутбука
+notebook==7.6.3
+nbconvert==7.17.2
+ipykernel==7.4.0
